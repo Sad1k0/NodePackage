@@ -1,5 +1,5 @@
 {
-  "name": "@sad1k0/NodePackage",
+  "name": "@sad1k0/nodepackage",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -7,7 +7,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sad1k0/NodePackage.git"
+    "url": "https://github.com/sad1k0/nodepackage.git"
   },
   "keywords": [],
   "author": "Luis Beltrán",
